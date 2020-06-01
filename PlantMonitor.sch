@@ -7,11 +7,11 @@ Sheet 1 5
 Title "Plant Monitor"
 Date "2020-06-01"
 Rev ""
-Comp ""
-Comment1 "Mateusz Pietrzkowski"
-Comment2 "Dawid Michałowski"
-Comment3 ""
-Comment4 ""
+Comp "Open Source Project"
+Comment1 "Hardware Developer"
+Comment2 "Mateusz Pietrzkowski"
+Comment3 "Schematic Review"
+Comment4 "Dawid Michałowski"
 $EndDescr
 $Sheet
 S 3500 1500 1000 500 
